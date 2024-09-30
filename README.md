@@ -4,5 +4,5 @@ The repository contains the experimental data and analysis presented in Rein, J.
 The "HTE Data Analysis.ipynb" is used to generate a set of complimentary reaction conditions, based on user defined parameters form the "HTE Data.xlsx" dataset. The code was executed within Google Colab.  Additional information about the data including reaction conditons, experimental procedures, and experiment analysis is available free of charge on via the Internet at http://pubs.acs.org.
 ![image](https://github.com/user-attachments/assets/b7afaacf-b6cc-49d1-8e3e-54dc0083fef5)
 
-# Instructions:
+# Instructions
 Download all files. Upload to "HTE Data Analysis.ipynb" to Google Colab. Upload "HTE Data.xlsx" to session storage. Excecute all code cells. 
